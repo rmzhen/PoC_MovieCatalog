@@ -1,6 +1,5 @@
 package io.movcatalog.ratingdataservice.resources;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 
